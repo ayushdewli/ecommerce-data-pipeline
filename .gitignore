@@ -1,0 +1,12 @@
+# Data files (too large for GitHub)
+data/
+*.csv
+
+# Python cache
+__pycache__/
+*.pyc
+.env
+
+# Docker volumes
+postgres_data/
+mongo_data/
